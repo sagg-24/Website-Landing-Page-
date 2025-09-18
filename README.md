@@ -16,4 +16,4 @@ A modern and responsive landing page built with **React.js** and **CSS**, featur
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/website-landing-page.git
+   git clone https://github.com/sagg-24/website-landing-page.git
