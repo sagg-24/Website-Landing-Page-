@@ -1,6 +1,6 @@
-# Website Landing Page
+# Landing-Page Website
 
-A modern and responsive landing page built with **React.js** and **CSS**, featuring sleek layouts, smooth navigation, and appealing design elements.
+A modern and responsive Landing page built with **React.js** and **CSS**, featuring sleek layouts, smooth navigation, and appealing design elements.
 
 ## Features
 - Responsive design for all devices
@@ -9,11 +9,6 @@ A modern and responsive landing page built with **React.js** and **CSS**, featur
 - Easy to customize and extend
 
 ## Tech Stack
-- **Front-end:** React.js  
-- **Styling:** CSS  
+- **Front-end:** React.js styling CSS  
 
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/sagg-24/website-landing-page.git
+<img width="1512" height="6246" alt="Landing Page" src="https://github.com/user-attachments/assets/f03cadbd-fd4a-493c-a509-d5bf5c9afbab" />
